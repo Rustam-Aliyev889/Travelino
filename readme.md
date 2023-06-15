@@ -31,7 +31,9 @@ https://www.freewebheaders.com/sport/sports-1024x300/gallery/page/1
 ## graphics
 Logo - create at logoza.com using the online logo maker
 
-# Attribution
+# Technologies
+HTML
+CSS
 Bootstrap library used for styling all pages
 
 # Testing
@@ -59,8 +61,8 @@ The following web browsers were used to test the display of the website includin
 
 ## Language validation
 Validation of scripting languages were validated using the following:
-•       HTML validation using HTML validator (W3C validator) at https://jigsaw.w3.org/css-validator/
-•       CSS validated at https://jigsaw.w3.org/css-validator/
+•       HTML validatior (W3C validator)(No errors) https://validator.w3.org/nu/?doc=https%3A%2F%2Frustam-aliyev889.github.io%2FTravelino%2Findex.html
+•       CSS validation(no errors) https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Frustam-aliyev889.github.io%2FTravelino%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en
 # Bugs
 |Bug|Comment|
 | ------ | ------ |
