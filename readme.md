@@ -60,9 +60,10 @@ The following web browsers were used to test the display of the website includin
 ###### Opera
 
 ## Language validation
-Validation of scripting languages were validated using the following:
-•       HTML validatior (W3C validator)(No errors) https://validator.w3.org/nu/?doc=https%3A%2F%2Frustam-aliyev889.github.io%2FTravelino%2Findex.html
-•       CSS validation(no errors) https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Frustam-aliyev889.github.io%2FTravelino%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en
+The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
+
+-   [W3C Markup Validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Frustam-aliyev889.github.io%2FTravelino%2Findex.html) - Results - No Errors or Warnings
+-   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Frustam-aliyev889.github.io%2FTravelino%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en) - Results No Errors
 # Bugs
 |Bug|Comment|
 | ------ | ------ |
