@@ -1,3 +1,7 @@
+<h1 align="center">Travelino</h1>
+[View the live project here.](https://rustam-aliyev889.github.io/Travelino/index.html)
+<h2 align="center"><img src="static/images/screenshots/mock-up.png"></h2>
+
 # What the Project is about? 
 This is a website for a travel agency. It allows you to book a holiday or event. There is a contact page for visitors to the website to contact the agency .
 
