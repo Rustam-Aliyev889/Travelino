@@ -72,6 +72,16 @@ Bootstrap library used for styling all pages
 Font-awesome
 
 # Testing
+
+## Language validation
+The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
+
+-   [W3C Markup Validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Frustam-aliyev889.github.io%2FTravelino%2Findex.html) - Results - No Errors or Warnings
+-   [W3C Markup Validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Frustam-aliyev889.github.io%2FTravelino%2Fdestinations.html) - Results - No Errors or Warnings
+-   [W3C Markup Validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Frustam-aliyev889.github.io%2FTravelino%2Fexperiences.html) - Results - No Errors or Warnings
+-   [W3C Markup Validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Frustam-aliyev889.github.io%2FTravelino%2Fform.html) - Results - No Errors or Warnings
+-   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Frustam-aliyev889.github.io%2FTravelino%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en) - Results No Errors
+
 ## Testing web page  links
 |Test Case| Test|Expected Outcome|Actual Outcome|Comment|
 | ------ | ------ |------ |------ |------ |
@@ -79,6 +89,14 @@ Font-awesome
 |2|  Destinations links functional test     | launch Current computer games page          |all links launched Destinations page|n/a|
 |3|  Expiriences links funtional test for all pages    |   launch About us page        |All links launched |n/a|
 |4| Contact us links functional tests for all pages     | launch Contact us page          |All links launched correctly|n/a|
+
+# Bugs
+|Bug|Comment|
+| ------ | ------ |
+|Pages were not linked correctly as they were linking to the wrong pages or didn't work at all|This was corrected and recorded in the Test log|
+|Font size wasn't responsive |Code was included to correct it. Subsequent test verified correct operation of the timer|
+|Elements were not centered correctly|This was fixed and tested to ensure it works|
+|Images were distorted on mobile devices|This was fixed and tested to ensure it works|
 
 ## Responsive testing
 |Test Case| Test|Expected Outcome|Actual Outcome|Comment|
@@ -94,21 +112,6 @@ The following web browsers were used to test the display of the website includin
 ###### Chrome
 ###### Opera
 
-## Language validation
-The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
-
--   [W3C Markup Validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Frustam-aliyev889.github.io%2FTravelino%2Findex.html) - Results - No Errors or Warnings
--   [W3C Markup Validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Frustam-aliyev889.github.io%2FTravelino%2Fdestinations.html) - Results - No Errors or Warnings
--   [W3C Markup Validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Frustam-aliyev889.github.io%2FTravelino%2Fexperiences.html) - Results - No Errors or Warnings
--   [W3C Markup Validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Frustam-aliyev889.github.io%2FTravelino%2Fform.html) - Results - No Errors or Warnings
--   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Frustam-aliyev889.github.io%2FTravelino%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en) - Results No Errors
-# Bugs
-|Bug|Comment|
-| ------ | ------ |
-|Pages were not linked correctly as they were linking to the wrong pages or didn't work at all|This was corrected and recorded in the Test log|
-|Font size wasn't responsive |Code was included to correct it. Subsequent test verified correct operation of the timer|
-|Elements were not centered correctly|This was fixed and tested to ensure it works|
-|Images were distorted on mobile devices|This was fixed and tested to ensure it works|
 
 ## Deployment
 
