@@ -76,7 +76,7 @@ Font-awesome
 ## Language validation
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.<br>
 
-<img scr="/static/images/screenshots/html.t.png"><br>
+<img scr="![Alt text](static/images/screenshots/html.t.png)"><br>
 
 -   [W3C Markup Validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Frustam-aliyev889.github.io%2FTravelino%2Findex.html) - Results - No Errors or Warnings
 -   [W3C Markup Validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Frustam-aliyev889.github.io%2FTravelino%2Fdestinations.html) - Results - No Errors or Warnings
