@@ -6,21 +6,55 @@
 This is a website for a travel agency. It allows you to book a holiday or event. There is a contact page for visitors to the website to contact the agency .
 
 Altogether there are 4 web pages.
+
+
+## User Experience (UX)
+
+-   ### User stories
+
+    -   #### First Time Visitor Goals
+
+        1. As a First Time Visitor, I want to be able to navigate to the different sections of the website to gain a basic knowledge of services the company offers and how it helps me. 
+        2. As a First Time Visitor, I want to be able to contact the company.
+        3. As a First Time Visitor, I want to be able to find the office address so in case I want to do it in person.
+    
+    <img src="/static/images/screenshots/mp.png">
+
+    <img src="/static/images/screenshots/mp1.png">
+
+    -   #### Returning Visitor Goals
+
+        1. As a Returning Visitor, I want them to use the booking function on the website to book their own service.
+        2. As a Returning Visitor, I want them to learn in details about the provided services.
+        3. As a Returning Visitor, I want them to see values of the company.
+   
+    <img src="/static/images/screenshots/dp.png">
+
+    <img src="/static/images/screenshots/ep.png">
+
+
+    -   #### Frequent User Goals
+        1. As a Frequent User, I want them to book every service through the contact form or a phone. 
+        2. As a Frequent User, I want them to make contact with us through the website about any issues or ways we can help them.
+        3. As a Frequent User, I want them to agree to our monthly phone calls about our special deals which are unique for every client.
+
+    <img src="/static/images/screenshots/fp.png">
+
 # Web pages
-## Home page(travelino)
+## Home page(index.html)
 The Home page is the landing page which introduces the website to the visitor and introduces the services of the company with links to other pages.
 ## Destinations
 This web page allows you to see what kind of holiday you can expect in addition you can fimiliarize yourself with the article which explains the reasons why you should travel.
 ## expiriences
 This web page allows you to see what kind of event or experience  you can participate in. Furthemore you can fimiliarize yourself with the article which explains the benefits of Benefits Of trying New Things.
-## Contact us(form)
+## Contact us(form.html)
 The contact us page provides the user with a form to capture the name and email of anyone wishing to contact us. The form uaes the POST method for security so that the user's details are not made visible in the URL
 
 # Design 
 The interface consists of Wireframes – 3 wireframes for each page – (one for each of PC size, Ipad, Smartphone ) – The files are included named as follows:
 |Web page| File name|
 | ------ | ------ |
-|   Home page    |   Travelino.Png         |
+|   Home page    |   index.Png         |
 |   Destinations |   Destinations.png      |
 |   Expiriences  |   Expiriences.png       |
 |   contact us   |   Contact us.png        |
@@ -35,6 +69,7 @@ Logo - create at logoza.com using the online logo maker
 HTML
 CSS
 Bootstrap library used for styling all pages
+Font-awesome
 
 # Testing
 ## Testing web page  links
