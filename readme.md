@@ -75,11 +75,23 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 |Elements were not centered correctly|This was fixed and tested to ensure it works|
 |Images were distorted on mobile devices|This was fixed and tested to ensure it works|
 
-# Deployment
-Website pages are standard HTML + CSS pages and HTML templates.
+## Deployment
 
-# Where can it be found on GitHub? 
+### Where can it be found on GitHub? 
 The GitHub link for the project is - https://github.com/Rustam-Aliyev889/Travelino.git
+
+### GitHub Pages
+
+I deployed the project onto GitHub Pages using the following steps:
+
+1. Go to my GitHub repository for the project this is the link. [My GitHub Repository for Travelino](https://github.com/Rustam-Aliyev889/Travelino)
+2. Locate the 'Settings' button for the repository and click.
+3. Scroll down the Settings page until you see the "Pages" Section on your left.
+4. You need to change the "Source", by clicking the dropdown and choose "deploy from a branch".
+5. You then need to change branch from 'None' to 'main'.
+7. The page will automatically refresh.
+7. At the top of the 'Pages' section, look to locate the now published site [link](https://rustam-aliyev889.github.io/Travelino/index.html).
+
 
 ## Contributing
 
