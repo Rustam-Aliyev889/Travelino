@@ -16,29 +16,29 @@ Altogether there are 4 web pages.
 
         1. As a First Time Visitor, I want to be able to navigate to the different sections of the website to gain a basic knowledge of services the company offers and how it helps me. 
         2. As a First Time Visitor, I want to be able to contact the company.
-        3. As a First Time Visitor, I want to be able to find the office address so in case I want to do it in person.
+        3. As a First Time Visitor, I want to be able to find the office address so in case I want to do it in person.<br>
     
-    <img src="/static/images/screenshots/mp.png">
+    <img src="/static/images/screenshots/mp.png"><br>
 
-    <img src="/static/images/screenshots/mp1.png">
+    <img src="/static/images/screenshots/mp1.png"><br>
 
     -   #### Returning Visitor Goals
 
         1. As a Returning Visitor, I want them to use the booking function on the website to book their own service.
         2. As a Returning Visitor, I want them to learn in details about the provided services.
-        3. As a Returning Visitor, I want them to see values of the company.
+        3. As a Returning Visitor, I want them to see values of the company.<br>
    
-    <img src="/static/images/screenshots/dp.png">
+    <img src="/static/images/screenshots/dp.png"><br>
 
-    <img src="/static/images/screenshots/ep.png">
+    <img src="/static/images/screenshots/ep.png"><br>
 
 
     -   #### Frequent User Goals
         1. As a Frequent User, I want them to book every service through the contact form or a phone. 
         2. As a Frequent User, I want them to make contact with us through the website about any issues or ways we can help them.
-        3. As a Frequent User, I want them to agree to our monthly phone calls about our special deals which are unique for every client.
+        3. As a Frequent User, I want them to agree to our monthly phone calls about our special deals which are unique for every client.<br>
 
-    <img src="/static/images/screenshots/fp.png">
+    <img src="/static/images/screenshots/fp.png"><br>
 
 # Web pages
 ## Home page(index.html)
@@ -74,12 +74,17 @@ Font-awesome
 # Testing
 
 ## Language validation
-The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
+The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.<br>
+
+<img scr="/static/images/screenshots/html.t.png"><br>
 
 -   [W3C Markup Validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Frustam-aliyev889.github.io%2FTravelino%2Findex.html) - Results - No Errors or Warnings
 -   [W3C Markup Validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Frustam-aliyev889.github.io%2FTravelino%2Fdestinations.html) - Results - No Errors or Warnings
 -   [W3C Markup Validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Frustam-aliyev889.github.io%2FTravelino%2Fexperiences.html) - Results - No Errors or Warnings
--   [W3C Markup Validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Frustam-aliyev889.github.io%2FTravelino%2Fform.html) - Results - No Errors or Warnings
+-   [W3C Markup Validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Frustam-aliyev889.github.io%2FTravelino%2Fform.html) - Results - No Errors or Warnings<br>
+
+<img scr="/static/images/screenshots/css.t.png"><br>
+
 -   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Frustam-aliyev889.github.io%2FTravelino%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en) - Results No Errors
 
 ## Testing web page  links
