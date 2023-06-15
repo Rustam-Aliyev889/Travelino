@@ -76,14 +76,14 @@ Font-awesome
 ## Language validation
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.<br>
 
-<img scr="![Alt text](static/images/screenshots/html.t.png)"><br>
+ <img src="/static/images/screenshots/html.t.png"><br>
 
 -   [W3C Markup Validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Frustam-aliyev889.github.io%2FTravelino%2Findex.html) - Results - No Errors or Warnings
 -   [W3C Markup Validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Frustam-aliyev889.github.io%2FTravelino%2Fdestinations.html) - Results - No Errors or Warnings
 -   [W3C Markup Validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Frustam-aliyev889.github.io%2FTravelino%2Fexperiences.html) - Results - No Errors or Warnings
 -   [W3C Markup Validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Frustam-aliyev889.github.io%2FTravelino%2Fform.html) - Results - No Errors or Warnings<br>
 
-<img scr="/static/images/screenshots/css.t.png"><br>
+<img src="/static/images/screenshots/css.t.png"><br>
 
 -   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Frustam-aliyev889.github.io%2FTravelino%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en) - Results No Errors
 
