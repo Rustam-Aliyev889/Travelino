@@ -59,6 +59,8 @@ The interface consists of Wireframes – 3 wireframes for each page – (one for
 |   Expiriences  |   Expiriences.png       |
 |   contact us   |   Contact us.png        |
 
+<br><img src="/static/images/wireframes/PC%20travelino.png"><br>
+
 # Resources  
 ## images
 https://www.freewebheaders.com/sport/sports-1024x300/gallery/page/1
