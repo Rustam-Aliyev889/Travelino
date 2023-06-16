@@ -54,10 +54,10 @@ The contact us page provides the user with a form to capture the name and email 
 The interface consists of Wireframes – 3 wireframes for each page – (one for each of PC size, Ipad, Smartphone ) – The files are included named as follows:
 |Web page| File name|
 | ------ | ------ |
-|   Home page    |   index.Png         |
-|   Destinations |   Destinations.png      |
-|   Expiriences  |   Expiriences.png       |
-|   contact us   |   Contact us.png        |<br>
+|   Home page    |   index.html         |
+|   Destinations |   Destinations.html      |
+|   Expiriences  |   Expiriences.html       |
+|   contact us   |   form.html        |<br>
 
 ## PC
 
@@ -107,7 +107,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 ### destinations.html
 <br><img src="/static/images/screenshots/light_house(ds).png"><br>
 
-### expiriences.html
+### experiences.html
 <br><img src="/static/images/screenshots/light_house(exp).png"><br>
 
 ### form.html
