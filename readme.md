@@ -105,7 +105,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 <br><img src="/static/images/screenshots/light_house(mp).png"><br>
 
 ### destinations.html
-<br><img src="/static/images/screenshots/light_house(ds).png)"><br>
+<br><img src="/static/images/screenshots/light_house(ds).png"><br>
 
 ### expiriences.html
 <br><img src="/static/images/screenshots/light_house(exp).png"><br>
