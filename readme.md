@@ -97,7 +97,21 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 <img src="/static/images/screenshots/css.t.png"><br>
 
--   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Frustam-aliyev889.github.io%2FTravelino%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en) - Results No Errors
+-   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Frustam-aliyev889.github.io%2FTravelino%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en) - Results No Errors<br>
+
+-   [Lighthouse reports]:
+
+### index.html
+<br><img src="/static/images/screenshots/light_house(mp).png"><br>
+
+### destinations.html
+<br><img src="/static/images/screenshots/light_house(ds).png)"><br>
+
+### expiriences.html
+<br><img src="/static/images/screenshots/light_house(exp).png"><br>
+
+### form.html
+<br><img src="/static/images/screenshots/light_house(form).png"><br>
 
 ## Testing web page  links
 |Test Case| Test|Expected Outcome|Actual Outcome|Comment|
