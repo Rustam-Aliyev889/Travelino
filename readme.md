@@ -57,9 +57,19 @@ The interface consists of Wireframes – 3 wireframes for each page – (one for
 |   Home page    |   index.Png         |
 |   Destinations |   Destinations.png      |
 |   Expiriences  |   Expiriences.png       |
-|   contact us   |   Contact us.png        |
+|   contact us   |   Contact us.png        |<br>
+
+## PC
 
 <br><img src="/static/images/wireframes/PC%20travelino.png"><br>
+
+## Tablet
+
+<br><img src="/static/images/wireframes/tablet_travelino.png"><br>
+
+## Phone
+
+<br><img src="/static/images/wireframes/phone_travelino.png"><br>
 
 # Resources  
 ## images
